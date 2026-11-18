@@ -1,0 +1,3 @@
+partition,records,available_images,missing_images
+train,51300,51300,0
+test,5700,5700,0

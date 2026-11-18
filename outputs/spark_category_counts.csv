@@ -1,0 +1,61 @@
+partition,category_id,category,count
+test,0,Arts & Photography,190
+test,1,Biographies & Memoirs,190
+test,2,Business & Money,190
+test,3,Calendars,190
+test,4,Children's Books,190
+test,5,Comics & Graphic Novels,190
+test,6,Computers & Technology,190
+test,7,"Cookbooks, Food & Wine",190
+test,8,"Crafts, Hobbies & Home",190
+test,9,Christian Books & Bibles,190
+test,10,Engineering & Transportation,190
+test,11,"Health, Fitness & Dieting",190
+test,12,History,190
+test,13,Humor & Entertainment,190
+test,14,Law,190
+test,15,Literature & Fiction,190
+test,16,Medical Books,190
+test,17,"Mystery, Thriller & Suspense",190
+test,18,Parenting & Relationships,190
+test,19,Politics & Social Sciences,190
+test,20,Reference,190
+test,21,Religion & Spirituality,190
+test,22,Romance,190
+test,23,Science & Math,190
+test,24,Science Fiction & Fantasy,190
+test,25,Self-Help,190
+test,26,Sports & Outdoors,190
+test,27,Teen & Young Adult,190
+test,28,Test Preparation,190
+test,29,Travel,190
+train,0,Arts & Photography,1710
+train,1,Biographies & Memoirs,1710
+train,2,Business & Money,1710
+train,3,Calendars,1710
+train,4,Children's Books,1710
+train,5,Comics & Graphic Novels,1710
+train,6,Computers & Technology,1710
+train,7,"Cookbooks, Food & Wine",1710
+train,8,"Crafts, Hobbies & Home",1710
+train,9,Christian Books & Bibles,1710
+train,10,Engineering & Transportation,1710
+train,11,"Health, Fitness & Dieting",1710
+train,12,History,1710
+train,13,Humor & Entertainment,1710
+train,14,Law,1710
+train,15,Literature & Fiction,1710
+train,16,Medical Books,1710
+train,17,"Mystery, Thriller & Suspense",1710
+train,18,Parenting & Relationships,1710
+train,19,Politics & Social Sciences,1710
+train,20,Reference,1710
+train,21,Religion & Spirituality,1710
+train,22,Romance,1710
+train,23,Science & Math,1710
+train,24,Science Fiction & Fantasy,1710
+train,25,Self-Help,1710
+train,26,Sports & Outdoors,1710
+train,27,Teen & Young Adult,1710
+train,28,Test Preparation,1710
+train,29,Travel,1710

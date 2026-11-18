@@ -1,0 +1,2 @@
+selected_model,n_train,n_validation,n_test,accuracy,macro_precision,macro_recall,macro_f1
+Baseline CNN,15000,3000,5700,0.12263157894736842,0.1139067609516799,0.12263157894736841,0.09602028594433643

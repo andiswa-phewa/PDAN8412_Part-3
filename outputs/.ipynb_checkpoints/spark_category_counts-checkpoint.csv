@@ -1,0 +1,63 @@
+partition,category_id,category,count
+test,,,2
+test,0.0,Arts & Photography,190
+test,1.0,Biographies & Memoirs,190
+test,2.0,Business & Money,190
+test,3.0,Calendars,190
+test,4.0,Children's Books,190
+test,5.0,Comics & Graphic Novels,190
+test,6.0,Computers & Technology,190
+test,7.0,"Cookbooks, Food & Wine",190
+test,8.0,"Crafts, Hobbies & Home",190
+test,9.0,Christian Books & Bibles,190
+test,10.0,Engineering & Transportation,190
+test,11.0,"Health, Fitness & Dieting",190
+test,12.0,History,190
+test,13.0,Humor & Entertainment,190
+test,14.0,Law,190
+test,15.0,Literature & Fiction,190
+test,16.0,Medical Books,190
+test,17.0,"Mystery, Thriller & Suspense",190
+test,18.0,Parenting & Relationships,190
+test,19.0,Politics & Social Sciences,190
+test,20.0,Reference,190
+test,21.0,Religion & Spirituality,190
+test,22.0,Romance,190
+test,23.0,Science & Math,190
+test,24.0,Science Fiction & Fantasy,190
+test,25.0,Self-Help,190
+test,26.0,Sports & Outdoors,190
+test,27.0,Teen & Young Adult,190
+test,28.0,Test Preparation,190
+test,29.0,Travel,189
+train,,,6
+train,0.0,Arts & Photography,1710
+train,1.0,Biographies & Memoirs,1710
+train,2.0,Business & Money,1709
+train,3.0,Calendars,1710
+train,4.0,Children's Books,1710
+train,5.0,Comics & Graphic Novels,1710
+train,6.0,Computers & Technology,1710
+train,7.0,"Cookbooks, Food & Wine",1710
+train,8.0,"Crafts, Hobbies & Home",1710
+train,9.0,Christian Books & Bibles,1710
+train,10.0,Engineering & Transportation,1710
+train,11.0,"Health, Fitness & Dieting",1710
+train,12.0,History,1710
+train,13.0,Humor & Entertainment,1710
+train,14.0,Law,1710
+train,15.0,Literature & Fiction,1710
+train,16.0,Medical Books,1710
+train,17.0,"Mystery, Thriller & Suspense",1710
+train,18.0,Parenting & Relationships,1710
+train,19.0,Politics & Social Sciences,1709
+train,20.0,Reference,1710
+train,21.0,Religion & Spirituality,1710
+train,22.0,Romance,1710
+train,23.0,Science & Math,1710
+train,24.0,Science Fiction & Fantasy,1710
+train,25.0,Self-Help,1709
+train,26.0,Sports & Outdoors,1710
+train,27.0,Teen & Young Adult,1710
+train,28.0,Test Preparation,1710
+train,29.0,Travel,1710

@@ -1,0 +1,5 @@
+PySpark executed successfully
+Spark version: 4.2.0
+Records: {'train': 51300, 'test': 5700, 'total': 57000}
+Missing fields: {'asin': 0, 'filename': 0, 'image_url': 0, 'title': 0, 'author': 3825, 'category_id': 0, 'category': 0}
+Data quality: {'duplicate_filenames': 0, 'duplicate_asins': 0, 'invalid_category_ids': 0, 'train_test_filename_overlap': 0}

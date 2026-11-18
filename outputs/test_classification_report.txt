@@ -1,0 +1,38 @@
+Model chosen using validation data: Baseline CNN
+
+                              precision    recall  f1-score   support
+
+          Arts & Photography      0.167     0.032     0.053       190
+       Biographies & Memoirs      0.098     0.179     0.126       190
+            Business & Money      0.071     0.016     0.026       190
+                   Calendars      0.134     0.100     0.114       190
+            Children's Books      0.163     0.200     0.180       190
+     Comics & Graphic Novels      0.151     0.342     0.210       190
+      Computers & Technology      0.107     0.258     0.151       190
+      Cookbooks, Food & Wine      0.212     0.111     0.145       190
+      Crafts, Hobbies & Home      0.090     0.063     0.074       190
+    Christian Books & Bibles      0.105     0.021     0.035       190
+Engineering & Transportation      0.053     0.068     0.060       190
+   Health, Fitness & Dieting      0.000     0.000     0.000       190
+                     History      0.067     0.053     0.059       190
+       Humor & Entertainment      0.078     0.026     0.039       190
+                         Law      0.114     0.405     0.178       190
+        Literature & Fiction      0.000     0.000     0.000       190
+               Medical Books      0.127     0.068     0.089       190
+Mystery, Thriller & Suspense      0.202     0.232     0.216       190
+   Parenting & Relationships      0.100     0.158     0.123       190
+  Politics & Social Sciences      0.125     0.005     0.010       190
+                   Reference      0.250     0.005     0.010       190
+     Religion & Spirituality      0.125     0.026     0.043       190
+                     Romance      0.203     0.258     0.227       190
+              Science & Math      0.072     0.042     0.053       190
+   Science Fiction & Fantasy      0.117     0.121     0.119       190
+                   Self-Help      0.090     0.100     0.095       190
+           Sports & Outdoors      0.045     0.037     0.041       190
+          Teen & Young Adult      0.077     0.005     0.010       190
+            Test Preparation      0.155     0.526     0.239       190
+                      Travel      0.119     0.221     0.155       190
+
+                    accuracy                          0.123      5700
+                   macro avg      0.114     0.123     0.096      5700
+                weighted avg      0.114     0.123     0.096      5700

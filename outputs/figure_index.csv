@@ -1,0 +1,16 @@
+number,caption,file
+1,Distribution of training covers by category,Figure_01_Distribution_of_training_covers_by_category.png
+2,Distribution of test covers by category,Figure_02_Distribution_of_test_covers_by_category.png
+3,Missing metadata by original field,Figure_03_Missing_metadata_by_original_field.png
+4,Image availability in the original training and test partitions,Figure_04_Image_availability_in_the_original_training_and_test_partitions.png
+5,Examples of book covers from fifteen categories,Figure_05_Examples_of_book_covers_from_fifteen_categories.png
+6,Average brightness of sampled book covers,Figure_06_Average_brightness_of_sampled_book_covers.png
+7,Colour channel intensities in the image sample,Figure_07_Colour_channel_intensities_in_the_image_sample.png
+8,Dataset sizes used to develop and evaluate the CNN,Figure_08_Dataset_sizes_used_to_develop_and_evaluate_the_CNN.png
+11,Improved CNN training and validation accuracy,Figure_11_Improved_CNN_training_and_validation_accuracy.png
+12,Improved CNN training and validation loss,Figure_12_Improved_CNN_training_and_validation_loss.png
+13,Comparison of baseline and improved CNN on validation data,Figure_13_Comparison_of_baseline_and_improved_CNN_on_validation_data.png
+14,Test confusion matrix across thirty book categories,Figure_14_Test_confusion_matrix_across_thirty_book_categories.png
+15,Test F1-score for each book category,Figure_15_Test_F1_score_for_each_book_category.png
+16,Examples of correct CNN classifications,Figure_16_Examples_of_correct_CNN_classifications.png
+17,Examples of incorrect CNN classifications,Figure_17_Examples_of_incorrect_CNN_classifications.png
